@@ -62,6 +62,16 @@ This helps keep the code modular and easier to maintain.
 
 ---
 
+## UML Class Diagram
+
+The following UML class diagram shows the main structure of the application, including relationships between students, lecturers, units, manager classes, and action listener classes.
+
+It also highlights the use of OOP concepts such as inheritance, interfaces, class separation, and event handling.
+
+![UML Class Diagram](./images/uml-class-diagram.png)
+
+---
+
 ## Main Classes
 
 | Class | Purpose |
@@ -113,7 +123,7 @@ This helps keep the code modular and easier to maintain.
 git clone https://github.com/nkysd/java-student-management-gui.git
 ```
 
-2. Open the project in your preferred Java IDE.
+2. Open the project in your preferred Java IDE, such as IntelliJ IDEA, Eclipse, or VS Code.
 
 3. Compile and run:
 
