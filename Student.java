@@ -1,8 +1,3 @@
-/*-------------------------
-    Student ID - s8107356
-    Name - Mio Mizutani
--------------------------*/
-
 // Student.java
 // This class represents a Student with attributes such as studentId, studentName, major, gpa, type, lecturer, and unit.
 // It includes methods to get and set these attributes, as well as a method to display the student's information in a JComboBox.

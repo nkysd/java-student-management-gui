@@ -1,8 +1,3 @@
-/*-------------------------
-    Student ID - s8107356
-    Name - Mio Mizutani
--------------------------*/
-
 // PersonManager.java
 // This class manages a collection of objects implementing the Person interface.
 // It demonstrates polymorphism by handling both Student and Lecturer objects

@@ -1,8 +1,3 @@
-/*-------------------------
-    Student ID - s8107356
-    Name - Mio Mizutani
--------------------------*/
-
 // StudentActionListener.java
 // This class handles the actions for the Student Management GUI
 

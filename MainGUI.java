@@ -1,8 +1,3 @@
-/*-------------------------
-    Student ID - s8107356
-    Name - Mio Mizutani
--------------------------*/
-
 // MainGUI.java
 
 import javax.swing.*; // For GUI components

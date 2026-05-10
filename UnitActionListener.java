@@ -1,8 +1,3 @@
-/*-------------------------
-    Student ID - s8107356
-    Name - Mio Mizutani
--------------------------*/
-
 // UnitActionListener.java
 // This class handles the action events for the Unit GUI
 

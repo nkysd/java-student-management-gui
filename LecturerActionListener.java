@@ -1,8 +1,3 @@
-/*-------------------------
-    Student ID - s8107356
-    Name - Mio Mizutani
--------------------------*/
-
 // LecturerActionListener.java
 // This class handles the action events for the Lecturer GUI
 

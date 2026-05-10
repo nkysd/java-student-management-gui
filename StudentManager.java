@@ -1,8 +1,3 @@
-/*-------------------------
-    Student ID - s8107356
-    Name - Mio Mizutani
--------------------------*/
-
 // StudentManager.java
 // This class manages a list of Student objects, allowing for adding, updating, deleting, and looking up students.
 // It also provides a method to retrieve all students in the list.

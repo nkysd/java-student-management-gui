@@ -1,8 +1,3 @@
-/*-------------------------
-    Student ID - s8107356
-    Name - Mio Mizutani
--------------------------*/
-
 // UnitManager.java
 // This class manages a list of Unit objects.
 // It provides methods to add, delete, update, and lookup units.

@@ -1,8 +1,3 @@
-/*-------------------------
-    Student ID - s8107356
-    Name - Mio Mizutani
--------------------------*/
-
 // LecturerManager.java
 // This class manages a list of Lecturer objects.
 // It provides methods to add, delete, update, and lookup lecturers.

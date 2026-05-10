@@ -1,8 +1,3 @@
-/*-------------------------
-    Student ID - s8107356
-    Name - Mio Mizutani
--------------------------*/
-
 // Unit.java
 // This class represents a Unit with attributes such as unitCode, unitName, creditPoints, and lecturer.
 // It includes methods to get and set these attributes, as well as a method to display the unit's name in a JComboBox.

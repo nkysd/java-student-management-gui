@@ -1,8 +1,3 @@
-/*-------------------------
-    Student ID - s8107356
-    Name - Mio Mizutani
--------------------------*/
-
 // Lecturer.java
 // This class represents a Lecturer with attributes such as staffId, lecturerName, and department.
 // It includes methods to get and set these attributes, as well as a method to display the lecturer's name in a JComboBox.
